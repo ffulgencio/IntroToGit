@@ -1,2 +1,7 @@
 # Este comentario es el inicial
-print("Hola");
+print("Hola")
+
+
+def miFuncion(){
+    pass
+}
