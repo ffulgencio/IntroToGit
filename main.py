@@ -5,3 +5,7 @@ print("Hola")
 def miFuncion(){
     pass
 }
+
+def sumar(x,y){
+    return x + y
+}
