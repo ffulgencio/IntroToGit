@@ -2,10 +2,13 @@
 print("Hola")
 
 
-def miFuncion(){
+def miFuncion():
     pass
-}
 
-def sumar(x,y){
+
+def sumar(x,y):
     return x + y
-}
+
+
+def duplicar(numero):
+    pass
